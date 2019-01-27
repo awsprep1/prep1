@@ -4,5 +4,5 @@ node('a1') {
         // checkout code from repo
         checkout scm
       
-    }
+    
 }
